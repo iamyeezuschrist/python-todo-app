@@ -1,2 +1,3 @@
-Clean
-POSOSI
+Clean the programDry
+Clear
+Pre-final testFinal test
